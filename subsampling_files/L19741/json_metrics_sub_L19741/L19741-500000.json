@@ -1,0 +1,4031 @@
+[
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e_1.filtered_fastqc.zip", 
+        "type": "fastqc", 
+        "data": {
+            "Per base sequence quality": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "1", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.66272111662485
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "2", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.59086834239716
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "3", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.65673304353713
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "4", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.66020403348726
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "5", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.66328525506238
+                    }, 
+                    {
+                        "10th Percentile": 36.0, 
+                        "Median": 38.0, 
+                        "Base": "6", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 38.0, 
+                        "Mean": 37.20980411062037
+                    }, 
+                    {
+                        "10th Percentile": 36.0, 
+                        "Median": 38.0, 
+                        "Base": "7", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 38.0, 
+                        "Mean": 37.23225271760871
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "8", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 38.0, 
+                        "Mean": 37.035257626638824
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "9", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.950790716948156
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "10-14", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.927868643954795
+                    }, 
+                    {
+                        "10th Percentile": 34.4, 
+                        "Median": 38.0, 
+                        "Base": "15-19", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.841217800516546
+                    }, 
+                    {
+                        "10th Percentile": 34.2, 
+                        "Median": 38.0, 
+                        "Base": "20-24", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.84766333859178
+                    }, 
+                    {
+                        "10th Percentile": 34.2, 
+                        "Median": 38.0, 
+                        "Base": "25-29", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.73836079832769
+                    }, 
+                    {
+                        "10th Percentile": 34.4, 
+                        "Median": 38.0, 
+                        "Base": "30-34", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.783184982019364
+                    }, 
+                    {
+                        "10th Percentile": 34.6, 
+                        "Median": 38.0, 
+                        "Base": "35-39", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.79326811427286
+                    }, 
+                    {
+                        "10th Percentile": 34.6, 
+                        "Median": 38.0, 
+                        "Base": "40-44", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.83759445202914
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "45-49", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.88611694446389
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "50-54", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.908960994225275
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "55-59", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.2, 
+                        "Mean": 36.91083161368324
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "60-64", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.845801423130155
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "65-69", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.850987523857526
+                    }, 
+                    {
+                        "10th Percentile": 34.8, 
+                        "Median": 38.0, 
+                        "Base": "70-74", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.80901773852001
+                    }, 
+                    {
+                        "10th Percentile": 34.4, 
+                        "Median": 38.0, 
+                        "Base": "75-79", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.7907491110494
+                    }, 
+                    {
+                        "10th Percentile": 35.0, 
+                        "Median": 38.0, 
+                        "Base": "80-84", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.822013554833745
+                    }, 
+                    {
+                        "10th Percentile": 34.4, 
+                        "Median": 38.0, 
+                        "Base": "85-89", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.78049101968957
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "90-94", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.75847508383026
+                    }, 
+                    {
+                        "10th Percentile": 34.2, 
+                        "Median": 38.0, 
+                        "Base": "95-99", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.74424066888601
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "100-104", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.70259584267569
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "105-109", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.56959102284071
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "110-114", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.59904198834802
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "115-119", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.628379953233654
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "120-124", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.62449845077289
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "125-129", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.57904026589309
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "130-134", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.50844622977743
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "135-139", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.49094958257497
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "140-144", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.50906603711666
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "145-149", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.46575482965146
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "150-154", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.40802075240356
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "155-159", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.32203949252248
+                    }, 
+                    {
+                        "10th Percentile": 33.8, 
+                        "Median": 38.0, 
+                        "Base": "160-164", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.26390799716309
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "165-169", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.276730428207856
+                    }, 
+                    {
+                        "10th Percentile": 33.4, 
+                        "Median": 38.0, 
+                        "Base": "170-174", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.194271263194
+                    }, 
+                    {
+                        "10th Percentile": 33.8, 
+                        "Median": 38.0, 
+                        "Base": "175-179", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.16873691725056
+                    }, 
+                    {
+                        "10th Percentile": 33.0, 
+                        "Median": 38.0, 
+                        "Base": "180-184", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.07559496417923
+                    }, 
+                    {
+                        "10th Percentile": 33.2, 
+                        "Median": 38.0, 
+                        "Base": "185-189", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.06150753625607
+                    }, 
+                    {
+                        "10th Percentile": 33.0, 
+                        "Median": 38.0, 
+                        "Base": "190-194", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.8, 
+                        "Mean": 36.04679577167748
+                    }, 
+                    {
+                        "10th Percentile": 32.6, 
+                        "Median": 38.0, 
+                        "Base": "195-199", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.4, 
+                        "Mean": 36.01322995617866
+                    }, 
+                    {
+                        "10th Percentile": 32.2, 
+                        "Median": 38.0, 
+                        "Base": "200-204", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.2, 
+                        "Mean": 35.95697682342844
+                    }, 
+                    {
+                        "10th Percentile": 32.2, 
+                        "Median": 38.0, 
+                        "Base": "205-209", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.945029550718615
+                    }, 
+                    {
+                        "10th Percentile": 31.4, 
+                        "Median": 38.0, 
+                        "Base": "210-214", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.8663101685923
+                    }, 
+                    {
+                        "10th Percentile": 31.0, 
+                        "Median": 38.0, 
+                        "Base": "215-219", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.82368058257975
+                    }, 
+                    {
+                        "10th Percentile": 23.0, 
+                        "Median": 36.0, 
+                        "Base": "220", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 29.0, 
+                        "Mean": 32.82427209849547
+                    }
+                ]
+            }, 
+            "Sequence Duplication Levels": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Percentage of total": 44.63474169568406, 
+                        "Duplication Level": 1, 
+                        "Percentage of deduplicated": 72.75301809439033
+                    }, 
+                    {
+                        "Percentage of total": 18.747873795862127, 
+                        "Duplication Level": 2, 
+                        "Percentage of deduplicated": 15.279178837878113
+                    }, 
+                    {
+                        "Percentage of total": 9.869930019922037, 
+                        "Duplication Level": 3, 
+                        "Percentage of deduplicated": 5.3625432421040715
+                    }, 
+                    {
+                        "Percentage of total": 6.14997370831676, 
+                        "Duplication Level": 4, 
+                        "Percentage of deduplicated": 2.5060587979411224
+                    }, 
+                    {
+                        "Percentage of total": 4.138575477476011, 
+                        "Duplication Level": 5, 
+                        "Percentage of deduplicated": 1.349145733386988
+                    }, 
+                    {
+                        "Percentage of total": 2.7055439503413514, 
+                        "Duplication Level": 6, 
+                        "Percentage of deduplicated": 0.734989832644891
+                    }, 
+                    {
+                        "Percentage of total": 2.2905722641822686, 
+                        "Duplication Level": 7, 
+                        "Percentage of deduplicated": 0.533364303396348
+                    }, 
+                    {
+                        "Percentage of total": 1.4791893448465951, 
+                        "Duplication Level": 8, 
+                        "Percentage of deduplicated": 0.3013781560123253
+                    }, 
+                    {
+                        "Percentage of total": 1.321371323436075, 
+                        "Duplication Level": 9, 
+                        "Percentage of deduplicated": 0.23930972987311383
+                    }, 
+                    {
+                        "Percentage of total": 8.587117047163986, 
+                        "Duplication Level": ">10", 
+                        "Percentage of deduplicated": 0.9388255394446101
+                    }, 
+                    {
+                        "Percentage of total": 0.07511137276870332, 
+                        "Duplication Level": ">50", 
+                        "Percentage of deduplicated": 0.002187732928077889
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">100", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">500", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">1k", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">5k", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">10k+", 
+                        "Percentage of deduplicated": 0.0
+                    }
+                ], 
+                "Total Deduplicated Percentage": 61.35105163303961
+            }, 
+            "Per base sequence content": {
+                "status": "fail", 
+                "contents": [
+                    {
+                        "A": 15.718537999339446, 
+                        "C": 40.56504105902119, 
+                        "Base": "1", 
+                        "T": 5.4060873614527285, 
+                        "G": 38.31033358018664
+                    }, 
+                    {
+                        "A": 14.197210489282394, 
+                        "C": 24.785576108429456, 
+                        "Base": "2", 
+                        "T": 37.67090830391266, 
+                        "G": 23.346305098375485
+                    }, 
+                    {
+                        "A": 22.497225464593644, 
+                        "C": 25.442848673454105, 
+                        "Base": "3", 
+                        "T": 19.775616500741585, 
+                        "G": 32.28430936121066
+                    }, 
+                    {
+                        "A": 20.746550037027994, 
+                        "C": 26.39388350848977, 
+                        "Base": "4", 
+                        "T": 21.555832268308343, 
+                        "G": 31.30373418617389
+                    }, 
+                    {
+                        "A": 21.53306158955749, 
+                        "C": 26.92458392225967, 
+                        "Base": "5", 
+                        "T": 22.682468013350594, 
+                        "G": 28.859886474832248
+                    }, 
+                    {
+                        "A": 27.377535802276658, 
+                        "C": 20.900611115783775, 
+                        "Base": "6", 
+                        "T": 20.80891297703033, 
+                        "G": 30.912940104909236
+                    }, 
+                    {
+                        "A": 22.148690480830577, 
+                        "C": 24.08501873965319, 
+                        "Base": "7", 
+                        "T": 20.32929273451235, 
+                        "G": 33.43699804500388
+                    }, 
+                    {
+                        "A": 19.48718790323077, 
+                        "C": 29.811331592367925, 
+                        "Base": "8", 
+                        "T": 24.068607439652574, 
+                        "G": 26.632873064748736
+                    }, 
+                    {
+                        "A": 19.258865691972208, 
+                        "C": 31.850230476194387, 
+                        "Base": "9", 
+                        "T": 24.879325659682973, 
+                        "G": 24.011578172150433
+                    }, 
+                    {
+                        "A": 21.756624523815873, 
+                        "C": 28.415591555565584, 
+                        "Base": "10-14", 
+                        "T": 21.88368901407064, 
+                        "G": 27.944094906547907
+                    }, 
+                    {
+                        "A": 21.755803958815843, 
+                        "C": 28.55611331182085, 
+                        "Base": "15-19", 
+                        "T": 21.763763439316143, 
+                        "G": 27.924319290047162
+                    }, 
+                    {
+                        "A": 21.91064457432165, 
+                        "C": 28.46207656281733, 
+                        "Base": "20-24", 
+                        "T": 21.71978115531449, 
+                        "G": 27.90749770754653
+                    }, 
+                    {
+                        "A": 21.835357735568824, 
+                        "C": 28.36504475156369, 
+                        "Base": "25-29", 
+                        "T": 21.639570926561483, 
+                        "G": 28.160026586306003
+                    }, 
+                    {
+                        "A": 21.576100223809103, 
+                        "C": 28.442013748566573, 
+                        "Base": "30-34", 
+                        "T": 21.699308058563723, 
+                        "G": 28.282577969060597
+                    }, 
+                    {
+                        "A": 21.604370556690302, 
+                        "C": 28.398522737392728, 
+                        "Base": "35-39", 
+                        "T": 21.907119924782563, 
+                        "G": 28.089986781134407
+                    }, 
+                    {
+                        "A": 21.57590652298861, 
+                        "C": 28.420662984741913, 
+                        "Base": "40-44", 
+                        "T": 21.66575666183111, 
+                        "G": 28.33767383043837
+                    }, 
+                    {
+                        "A": 21.506200674582725, 
+                        "C": 28.511422706564744, 
+                        "Base": "45-49", 
+                        "T": 21.590143080468316, 
+                        "G": 28.392233538384215
+                    }, 
+                    {
+                        "A": 21.48601065364856, 
+                        "C": 28.359009595200053, 
+                        "Base": "50-54", 
+                        "T": 21.788065756370763, 
+                        "G": 28.366913994780624
+                    }, 
+                    {
+                        "A": 21.460429125324428, 
+                        "C": 28.536747519053527, 
+                        "Base": "55-59", 
+                        "T": 21.690790213960895, 
+                        "G": 28.312033141661146
+                    }, 
+                    {
+                        "A": 21.448186917801547, 
+                        "C": 28.561225686170573, 
+                        "Base": "60-64", 
+                        "T": 21.560807898660933, 
+                        "G": 28.429779497366948
+                    }, 
+                    {
+                        "A": 21.472997864471463, 
+                        "C": 28.517719925328855, 
+                        "Base": "65-69", 
+                        "T": 21.747205517229972, 
+                        "G": 28.262076692969707
+                    }, 
+                    {
+                        "A": 21.51718389378412, 
+                        "C": 28.53217808758883, 
+                        "Base": "70-74", 
+                        "T": 21.515485327912284, 
+                        "G": 28.435152690714773
+                    }, 
+                    {
+                        "A": 21.502565712643506, 
+                        "C": 28.64552964648151, 
+                        "Base": "75-79", 
+                        "T": 21.51577219727664, 
+                        "G": 28.336132443598345
+                    }, 
+                    {
+                        "A": 21.453308961973345, 
+                        "C": 28.538568177046713, 
+                        "Base": "80-84", 
+                        "T": 21.56398814978722, 
+                        "G": 28.44413471119272
+                    }, 
+                    {
+                        "A": 21.468317880562047, 
+                        "C": 28.601505029800727, 
+                        "Base": "85-89", 
+                        "T": 21.608047346583025, 
+                        "G": 28.322129743054198
+                    }, 
+                    {
+                        "A": 21.404953708006158, 
+                        "C": 28.641954334988608, 
+                        "Base": "90-94", 
+                        "T": 21.576227987806853, 
+                        "G": 28.376863969198386
+                    }, 
+                    {
+                        "A": 21.484498372149144, 
+                        "C": 28.46194554637787, 
+                        "Base": "95-99", 
+                        "T": 21.653633981227852, 
+                        "G": 28.399922100245128
+                    }, 
+                    {
+                        "A": 21.51570708241889, 
+                        "C": 28.529112947757223, 
+                        "Base": "100-104", 
+                        "T": 21.543722270408917, 
+                        "G": 28.41145769941497
+                    }, 
+                    {
+                        "A": 21.485718035459268, 
+                        "C": 28.482421466895303, 
+                        "Base": "105-109", 
+                        "T": 21.591185780374968, 
+                        "G": 28.440674717270465
+                    }, 
+                    {
+                        "A": 21.621457283552488, 
+                        "C": 28.428914699213863, 
+                        "Base": "110-114", 
+                        "T": 21.610171159754206, 
+                        "G": 28.33945685747944
+                    }, 
+                    {
+                        "A": 21.59086669402679, 
+                        "C": 28.512932987245566, 
+                        "Base": "115-119", 
+                        "T": 21.567459577197294, 
+                        "G": 28.328740741530357
+                    }, 
+                    {
+                        "A": 21.58300917524059, 
+                        "C": 28.539634653343647, 
+                        "Base": "120-124", 
+                        "T": 21.48793083502643, 
+                        "G": 28.389425336389333
+                    }, 
+                    {
+                        "A": 21.673073360717304, 
+                        "C": 28.47442959533225, 
+                        "Base": "125-129", 
+                        "T": 21.56773385508491, 
+                        "G": 28.28476318886553
+                    }, 
+                    {
+                        "A": 21.48027128890479, 
+                        "C": 28.411509768425113, 
+                        "Base": "130-134", 
+                        "T": 21.686351041816252, 
+                        "G": 28.421867900853844
+                    }, 
+                    {
+                        "A": 21.63520502614893, 
+                        "C": 28.501662269943385, 
+                        "Base": "135-139", 
+                        "T": 21.512607796855956, 
+                        "G": 28.350524907051728
+                    }, 
+                    {
+                        "A": 21.717837634206067, 
+                        "C": 28.362178027803033, 
+                        "Base": "140-144", 
+                        "T": 21.62870063167137, 
+                        "G": 28.291283706319533
+                    }, 
+                    {
+                        "A": 21.63137353695874, 
+                        "C": 28.402047089561183, 
+                        "Base": "145-149", 
+                        "T": 21.62598966703304, 
+                        "G": 28.340589706447034
+                    }, 
+                    {
+                        "A": 21.710314126847802, 
+                        "C": 28.338378592558243, 
+                        "Base": "150-154", 
+                        "T": 21.592385221877276, 
+                        "G": 28.35892205871668
+                    }, 
+                    {
+                        "A": 21.76096497132549, 
+                        "C": 28.382111413262972, 
+                        "Base": "155-159", 
+                        "T": 21.6796532134299, 
+                        "G": 28.177270401981637
+                    }, 
+                    {
+                        "A": 21.71343484007519, 
+                        "C": 28.29329052812482, 
+                        "Base": "160-164", 
+                        "T": 21.637065782994043, 
+                        "G": 28.35620884880594
+                    }, 
+                    {
+                        "A": 21.702224239673175, 
+                        "C": 28.384998592253368, 
+                        "Base": "165-169", 
+                        "T": 21.675161028976596, 
+                        "G": 28.23761613909686
+                    }, 
+                    {
+                        "A": 21.839450321601355, 
+                        "C": 28.205515579257156, 
+                        "Base": "170-174", 
+                        "T": 21.62651655827664, 
+                        "G": 28.328517540864844
+                    }, 
+                    {
+                        "A": 21.918704314987362, 
+                        "C": 28.268393655361535, 
+                        "Base": "175-179", 
+                        "T": 21.538533558446325, 
+                        "G": 28.274368471204774
+                    }, 
+                    {
+                        "A": 21.842371373141976, 
+                        "C": 28.306117325555324, 
+                        "Base": "180-184", 
+                        "T": 21.674367381929287, 
+                        "G": 28.177143919373414
+                    }, 
+                    {
+                        "A": 21.899927339457324, 
+                        "C": 28.065731272673272, 
+                        "Base": "185-189", 
+                        "T": 21.733656681587714, 
+                        "G": 28.300684706281686
+                    }, 
+                    {
+                        "A": 21.918465227817745, 
+                        "C": 28.223972546101052, 
+                        "Base": "190-194", 
+                        "T": 21.613605667190384, 
+                        "G": 28.24395655889082
+                    }, 
+                    {
+                        "A": 22.006204682887684, 
+                        "C": 28.1073567764308, 
+                        "Base": "195-199", 
+                        "T": 21.678416874444732, 
+                        "G": 28.20802166623678
+                    }, 
+                    {
+                        "A": 21.98063237156491, 
+                        "C": 28.089102427367663, 
+                        "Base": "200-204", 
+                        "T": 21.745995283391782, 
+                        "G": 28.184269917675646
+                    }, 
+                    {
+                        "A": 21.960303938515874, 
+                        "C": 28.028114934523884, 
+                        "Base": "205-209", 
+                        "T": 21.72891457636393, 
+                        "G": 28.282666550596314
+                    }, 
+                    {
+                        "A": 22.04689296410948, 
+                        "C": 28.05113178450447, 
+                        "Base": "210-214", 
+                        "T": 21.708225160171953, 
+                        "G": 28.1937500912141
+                    }, 
+                    {
+                        "A": 22.081344028783192, 
+                        "C": 27.940888752245513, 
+                        "Base": "215-219", 
+                        "T": 21.824629517171754, 
+                        "G": 28.15313770179954
+                    }, 
+                    {
+                        "A": 20.61844888645925, 
+                        "C": 29.018135146055663, 
+                        "Base": "220", 
+                        "T": 21.626696456159532, 
+                        "G": 28.736719511325553
+                    }
+                ]
+            }, 
+            "Per sequence GC content": {
+                "status": "fail", 
+                "contents": [
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 0
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 1
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 2
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 3
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 4
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 5
+                    }, 
+                    {
+                        "Count": 1.0, 
+                        "GC Content": 6
+                    }, 
+                    {
+                        "Count": 3.0, 
+                        "GC Content": 7
+                    }, 
+                    {
+                        "Count": 5.5, 
+                        "GC Content": 8
+                    }, 
+                    {
+                        "Count": 5.5, 
+                        "GC Content": 9
+                    }, 
+                    {
+                        "Count": 4.5, 
+                        "GC Content": 10
+                    }, 
+                    {
+                        "Count": 6.0, 
+                        "GC Content": 11
+                    }, 
+                    {
+                        "Count": 7.0, 
+                        "GC Content": 12
+                    }, 
+                    {
+                        "Count": 7.0, 
+                        "GC Content": 13
+                    }, 
+                    {
+                        "Count": 8.5, 
+                        "GC Content": 14
+                    }, 
+                    {
+                        "Count": 12.833333333333332, 
+                        "GC Content": 15
+                    }, 
+                    {
+                        "Count": 15.833333333333332, 
+                        "GC Content": 16
+                    }, 
+                    {
+                        "Count": 20.0, 
+                        "GC Content": 17
+                    }, 
+                    {
+                        "Count": 29.833333333333332, 
+                        "GC Content": 18
+                    }, 
+                    {
+                        "Count": 42.16666666666667, 
+                        "GC Content": 19
+                    }, 
+                    {
+                        "Count": 67.16666666666667, 
+                        "GC Content": 20
+                    }, 
+                    {
+                        "Count": 100.99999999999997, 
+                        "GC Content": 21
+                    }, 
+                    {
+                        "Count": 132.4999999999999, 
+                        "GC Content": 22
+                    }, 
+                    {
+                        "Count": 180.50000000000017, 
+                        "GC Content": 23
+                    }, 
+                    {
+                        "Count": 273.0000000000006, 
+                        "GC Content": 24
+                    }, 
+                    {
+                        "Count": 419.9999999999976, 
+                        "GC Content": 25
+                    }, 
+                    {
+                        "Count": 597.3333333333326, 
+                        "GC Content": 26
+                    }, 
+                    {
+                        "Count": 748.6666666666727, 
+                        "GC Content": 27
+                    }, 
+                    {
+                        "Count": 966.5000000000182, 
+                        "GC Content": 28
+                    }, 
+                    {
+                        "Count": 1290.833333333329, 
+                        "GC Content": 29
+                    }, 
+                    {
+                        "Count": 1715.8333333332787, 
+                        "GC Content": 30
+                    }, 
+                    {
+                        "Count": 2170.999999999936, 
+                        "GC Content": 31
+                    }, 
+                    {
+                        "Count": 2542.833333333355, 
+                        "GC Content": 32
+                    }, 
+                    {
+                        "Count": 2927.5000000001073, 
+                        "GC Content": 33
+                    }, 
+                    {
+                        "Count": 3400.3333333335545, 
+                        "GC Content": 34
+                    }, 
+                    {
+                        "Count": 3844.500000000316, 
+                        "GC Content": 35
+                    }, 
+                    {
+                        "Count": 4408.000000000212, 
+                        "GC Content": 36
+                    }, 
+                    {
+                        "Count": 4620.500000000123, 
+                        "GC Content": 37
+                    }, 
+                    {
+                        "Count": 4753.00000000007, 
+                        "GC Content": 38
+                    }, 
+                    {
+                        "Count": 4903.6666666666815, 
+                        "GC Content": 39
+                    }, 
+                    {
+                        "Count": 4986.499999999976, 
+                        "GC Content": 40
+                    }, 
+                    {
+                        "Count": 5044.999999999955, 
+                        "GC Content": 41
+                    }, 
+                    {
+                        "Count": 4952.666666666646, 
+                        "GC Content": 42
+                    }, 
+                    {
+                        "Count": 5043.333333333278, 
+                        "GC Content": 43
+                    }, 
+                    {
+                        "Count": 5175.333333333224, 
+                        "GC Content": 44
+                    }, 
+                    {
+                        "Count": 5181.499999999901, 
+                        "GC Content": 45
+                    }, 
+                    {
+                        "Count": 5263.333333333207, 
+                        "GC Content": 46
+                    }, 
+                    {
+                        "Count": 5633.666666666409, 
+                        "GC Content": 47
+                    }, 
+                    {
+                        "Count": 5991.499999999603, 
+                        "GC Content": 48
+                    }, 
+                    {
+                        "Count": 6360.8333333328155, 
+                        "GC Content": 49
+                    }, 
+                    {
+                        "Count": 6631.333333332734, 
+                        "GC Content": 50
+                    }, 
+                    {
+                        "Count": 6944.9999999992515, 
+                        "GC Content": 51
+                    }, 
+                    {
+                        "Count": 7178.499999999171, 
+                        "GC Content": 52
+                    }, 
+                    {
+                        "Count": 7441.166666665772, 
+                        "GC Content": 53
+                    }, 
+                    {
+                        "Count": 7579.999999999098, 
+                        "GC Content": 54
+                    }, 
+                    {
+                        "Count": 7674.666666665753, 
+                        "GC Content": 55
+                    }, 
+                    {
+                        "Count": 7750.833333332416, 
+                        "GC Content": 56
+                    }, 
+                    {
+                        "Count": 7952.166666665704, 
+                        "GC Content": 57
+                    }, 
+                    {
+                        "Count": 8069.999999998995, 
+                        "GC Content": 58
+                    }, 
+                    {
+                        "Count": 7965.333333332395, 
+                        "GC Content": 59
+                    }, 
+                    {
+                        "Count": 8427.66666666579, 
+                        "GC Content": 60
+                    }, 
+                    {
+                        "Count": 9660.999999999878, 
+                        "GC Content": 61
+                    }, 
+                    {
+                        "Count": 10742.000000000588, 
+                        "GC Content": 62
+                    }, 
+                    {
+                        "Count": 11542.500000001122, 
+                        "GC Content": 63
+                    }, 
+                    {
+                        "Count": 13032.833333335464, 
+                        "GC Content": 64
+                    }, 
+                    {
+                        "Count": 14752.166666670171, 
+                        "GC Content": 65
+                    }, 
+                    {
+                        "Count": 16147.000000004906, 
+                        "GC Content": 66
+                    }, 
+                    {
+                        "Count": 16910.833333337578, 
+                        "GC Content": 67
+                    }, 
+                    {
+                        "Count": 17166.666666670437, 
+                        "GC Content": 68
+                    }, 
+                    {
+                        "Count": 16440.3333333381, 
+                        "GC Content": 69
+                    }, 
+                    {
+                        "Count": 14178.666666669691, 
+                        "GC Content": 70
+                    }, 
+                    {
+                        "Count": 10941.50000000064, 
+                        "GC Content": 71
+                    }, 
+                    {
+                        "Count": 8113.66666666594, 
+                        "GC Content": 72
+                    }, 
+                    {
+                        "Count": 6073.833333333126, 
+                        "GC Content": 73
+                    }, 
+                    {
+                        "Count": 4472.000000000077, 
+                        "GC Content": 74
+                    }, 
+                    {
+                        "Count": 3004.6666666667093, 
+                        "GC Content": 75
+                    }, 
+                    {
+                        "Count": 1947.3333333333012, 
+                        "GC Content": 76
+                    }, 
+                    {
+                        "Count": 1227.4999999999998, 
+                        "GC Content": 77
+                    }, 
+                    {
+                        "Count": 848.8333333333393, 
+                        "GC Content": 78
+                    }, 
+                    {
+                        "Count": 623.666666666667, 
+                        "GC Content": 79
+                    }, 
+                    {
+                        "Count": 488.33333333333104, 
+                        "GC Content": 80
+                    }, 
+                    {
+                        "Count": 404.9999999999991, 
+                        "GC Content": 81
+                    }, 
+                    {
+                        "Count": 308.66666666666674, 
+                        "GC Content": 82
+                    }, 
+                    {
+                        "Count": 203.166666666667, 
+                        "GC Content": 83
+                    }, 
+                    {
+                        "Count": 143.16666666666663, 
+                        "GC Content": 84
+                    }, 
+                    {
+                        "Count": 90.49999999999996, 
+                        "GC Content": 85
+                    }, 
+                    {
+                        "Count": 65.16666666666669, 
+                        "GC Content": 86
+                    }, 
+                    {
+                        "Count": 49.666666666666664, 
+                        "GC Content": 87
+                    }, 
+                    {
+                        "Count": 24.5, 
+                        "GC Content": 88
+                    }, 
+                    {
+                        "Count": 17.5, 
+                        "GC Content": 89
+                    }, 
+                    {
+                        "Count": 11.5, 
+                        "GC Content": 90
+                    }, 
+                    {
+                        "Count": 6.0, 
+                        "GC Content": 91
+                    }, 
+                    {
+                        "Count": 4.5, 
+                        "GC Content": 92
+                    }, 
+                    {
+                        "Count": 3.5, 
+                        "GC Content": 93
+                    }, 
+                    {
+                        "Count": 2.5, 
+                        "GC Content": 94
+                    }, 
+                    {
+                        "Count": 1.5, 
+                        "GC Content": 95
+                    }, 
+                    {
+                        "Count": 1.0, 
+                        "GC Content": 96
+                    }, 
+                    {
+                        "Count": 1.0, 
+                        "GC Content": 97
+                    }, 
+                    {
+                        "Count": 1.0, 
+                        "GC Content": 98
+                    }, 
+                    {
+                        "Count": 0.5, 
+                        "GC Content": 99
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 100
+                    }
+                ]
+            }, 
+            "version": "0.11.2", 
+            "Sequence Length Distribution": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Count": 434.0, 
+                        "Length": "35-39"
+                    }, 
+                    {
+                        "Count": 545.0, 
+                        "Length": "40-44"
+                    }, 
+                    {
+                        "Count": 490.0, 
+                        "Length": "45-49"
+                    }, 
+                    {
+                        "Count": 493.0, 
+                        "Length": "50-54"
+                    }, 
+                    {
+                        "Count": 741.0, 
+                        "Length": "55-59"
+                    }, 
+                    {
+                        "Count": 723.0, 
+                        "Length": "60-64"
+                    }, 
+                    {
+                        "Count": 854.0, 
+                        "Length": "65-69"
+                    }, 
+                    {
+                        "Count": 1095.0, 
+                        "Length": "70-74"
+                    }, 
+                    {
+                        "Count": 1323.0, 
+                        "Length": "75-79"
+                    }, 
+                    {
+                        "Count": 1677.0, 
+                        "Length": "80-84"
+                    }, 
+                    {
+                        "Count": 2356.0, 
+                        "Length": "85-89"
+                    }, 
+                    {
+                        "Count": 2944.0, 
+                        "Length": "90-94"
+                    }, 
+                    {
+                        "Count": 3699.0, 
+                        "Length": "95-99"
+                    }, 
+                    {
+                        "Count": 4629.0, 
+                        "Length": "100-104"
+                    }, 
+                    {
+                        "Count": 5651.0, 
+                        "Length": "105-109"
+                    }, 
+                    {
+                        "Count": 6657.0, 
+                        "Length": "110-114"
+                    }, 
+                    {
+                        "Count": 7323.0, 
+                        "Length": "115-119"
+                    }, 
+                    {
+                        "Count": 8294.0, 
+                        "Length": "120-124"
+                    }, 
+                    {
+                        "Count": 8914.0, 
+                        "Length": "125-129"
+                    }, 
+                    {
+                        "Count": 9740.0, 
+                        "Length": "130-134"
+                    }, 
+                    {
+                        "Count": 10144.0, 
+                        "Length": "135-139"
+                    }, 
+                    {
+                        "Count": 10516.0, 
+                        "Length": "140-144"
+                    }, 
+                    {
+                        "Count": 11153.0, 
+                        "Length": "145-149"
+                    }, 
+                    {
+                        "Count": 11145.0, 
+                        "Length": "150-154"
+                    }, 
+                    {
+                        "Count": 11497.0, 
+                        "Length": "155-159"
+                    }, 
+                    {
+                        "Count": 11631.0, 
+                        "Length": "160-164"
+                    }, 
+                    {
+                        "Count": 11887.0, 
+                        "Length": "165-169"
+                    }, 
+                    {
+                        "Count": 11561.0, 
+                        "Length": "170-174"
+                    }, 
+                    {
+                        "Count": 11625.0, 
+                        "Length": "175-179"
+                    }, 
+                    {
+                        "Count": 11448.0, 
+                        "Length": "180-184"
+                    }, 
+                    {
+                        "Count": 11549.0, 
+                        "Length": "185-189"
+                    }, 
+                    {
+                        "Count": 11192.0, 
+                        "Length": "190-194"
+                    }, 
+                    {
+                        "Count": 10969.0, 
+                        "Length": "195-199"
+                    }, 
+                    {
+                        "Count": 10882.0, 
+                        "Length": "200-204"
+                    }, 
+                    {
+                        "Count": 10755.0, 
+                        "Length": "205-209"
+                    }, 
+                    {
+                        "Count": 10496.0, 
+                        "Length": "210-214"
+                    }, 
+                    {
+                        "Count": 30072.0, 
+                        "Length": "215-219"
+                    }, 
+                    {
+                        "Count": 210365.0, 
+                        "Length": "220-221"
+                    }
+                ]
+            }, 
+            "Kmer Content": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Count": 135, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 26.869415, 
+                        "PValue": 0.008811469, 
+                        "Sequence": "CCGCTTG"
+                    }, 
+                    {
+                        "Count": 260, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 17.439285, 
+                        "PValue": 0.009878261, 
+                        "Sequence": "TATTTAG"
+                    }, 
+                    {
+                        "Count": 445, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 14.264942, 
+                        "PValue": 0.0008821046, 
+                        "Sequence": "CTTGAGT"
+                    }, 
+                    {
+                        "Count": 395, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 13.774827, 
+                        "PValue": 0.0066010556, 
+                        "Sequence": "GTAGAAG"
+                    }, 
+                    {
+                        "Count": 465, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 13.651396, 
+                        "PValue": 0.0012297179, 
+                        "Sequence": "CTTGTAG"
+                    }, 
+                    {
+                        "Count": 695, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 10.4384775, 
+                        "PValue": 0.0020649764, 
+                        "Sequence": "GTGAGAA"
+                    }, 
+                    {
+                        "Count": 2460, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 9.584517, 
+                        "PValue": 0.0, 
+                        "Sequence": "CTGCAGA"
+                    }, 
+                    {
+                        "Count": 830, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 8.740653, 
+                        "PValue": 0.008934838, 
+                        "Sequence": "GTTGAGG"
+                    }, 
+                    {
+                        "Count": 1070, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 7.6276493, 
+                        "PValue": 0.008090216, 
+                        "Sequence": "TGCAGAC"
+                    }, 
+                    {
+                        "Count": 2225, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 6.9286866, 
+                        "PValue": 2.5904192e-06, 
+                        "Sequence": "GGAGGGG"
+                    }, 
+                    {
+                        "Count": 2045, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 6.2082143, 
+                        "PValue": 0.00030054574, 
+                        "Sequence": "TGCAGAG"
+                    }, 
+                    {
+                        "Count": 2250, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 5.2395363, 
+                        "PValue": 0.006256642, 
+                        "Sequence": "TGGCAGG"
+                    }
+                ]
+            }, 
+            "Basic Statistics": {
+                "status": "pass", 
+                "contents": {
+                    "Sequences flagged as poor quality": 0, 
+                    "Encoding": "Sanger / Illumina 1.9", 
+                    "Sequence length": "36-220", 
+                    "File type": "Conventional base calls", 
+                    "Total Sequences": 487469, 
+                    "%GC": 56, 
+                    "Filename": "328b465e_1.filtered.fastq.gz"
+                }
+            }, 
+            "Overrepresented sequences": {
+                "status": "pass", 
+                "contents": []
+            }, 
+            "Per sequence quality scores": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "Count": 2.0, 
+                        "Quality": 24
+                    }, 
+                    {
+                        "Count": 30.0, 
+                        "Quality": 25
+                    }, 
+                    {
+                        "Count": 145.0, 
+                        "Quality": 26
+                    }, 
+                    {
+                        "Count": 573.0, 
+                        "Quality": 27
+                    }, 
+                    {
+                        "Count": 1453.0, 
+                        "Quality": 28
+                    }, 
+                    {
+                        "Count": 3112.0, 
+                        "Quality": 29
+                    }, 
+                    {
+                        "Count": 5890.0, 
+                        "Quality": 30
+                    }, 
+                    {
+                        "Count": 9692.0, 
+                        "Quality": 31
+                    }, 
+                    {
+                        "Count": 14843.0, 
+                        "Quality": 32
+                    }, 
+                    {
+                        "Count": 21217.0, 
+                        "Quality": 33
+                    }, 
+                    {
+                        "Count": 30174.0, 
+                        "Quality": 34
+                    }, 
+                    {
+                        "Count": 44151.0, 
+                        "Quality": 35
+                    }, 
+                    {
+                        "Count": 76331.0, 
+                        "Quality": 36
+                    }, 
+                    {
+                        "Count": 279856.0, 
+                        "Quality": 37
+                    }
+                ]
+            }, 
+            "Per base N content": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "Base": "1", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "2", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "3", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "4", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "5", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "6", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "7", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "8", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "9", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "10-14", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "15-19", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "20-24", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "25-29", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "30-34", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "35-39", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "40-44", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "45-49", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "50-54", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "55-59", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "60-64", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "65-69", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "70-74", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "75-79", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "80-84", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "85-89", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "90-94", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "95-99", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "100-104", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "105-109", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "110-114", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "115-119", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "120-124", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "125-129", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "130-134", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "135-139", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "140-144", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "145-149", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "150-154", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "155-159", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "160-164", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "165-169", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "170-174", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "175-179", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "180-184", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "185-189", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "190-194", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "195-199", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "200-204", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "205-209", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "210-214", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "215-219", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "220", 
+                        "N-Count": 0.0
+                    }
+                ]
+            }
+        }
+    }, 
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e_2.filtered_fastqc.zip", 
+        "type": "fastqc", 
+        "data": {
+            "Per base sequence quality": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "10th Percentile": 33.0, 
+                        "Median": 34.0, 
+                        "Base": "1", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.18635646574449
+                    }, 
+                    {
+                        "10th Percentile": 33.0, 
+                        "Median": 34.0, 
+                        "Base": "2", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.23546933240883
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "3", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.33980212075024
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "4", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.410024022040375
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 34.0, 
+                        "Base": "5", 
+                        "Upper Quartile": 34.0, 
+                        "90th Percentile": 34.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.45121433362942
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "6", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.79823537496743
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "7", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.775554958366584
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "8", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.707819369026545
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "9", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.695878096863595
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "10-14", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.74206154647783
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "15-19", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.711270255134174
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "20-24", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.69248341945846
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "25-29", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.61734017958065
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "30-34", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.602388664715086
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "35-39", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.529468234805655
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "40-44", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.49168832020898
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "45-49", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.42967434245717
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "50-54", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.38429768528713
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "55-59", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.3393704526742
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "60-64", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.34549636885741
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "65-69", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.33367128315952
+                    }, 
+                    {
+                        "10th Percentile": 34.0, 
+                        "Median": 38.0, 
+                        "Base": "70-74", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.290996747386465
+                    }, 
+                    {
+                        "10th Percentile": 33.2, 
+                        "Median": 38.0, 
+                        "Base": "75-79", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.157302098845456
+                    }, 
+                    {
+                        "10th Percentile": 32.6, 
+                        "Median": 38.0, 
+                        "Base": "80-84", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.01604645650777
+                    }, 
+                    {
+                        "10th Percentile": 33.8, 
+                        "Median": 38.0, 
+                        "Base": "85-89", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.18301048706385
+                    }, 
+                    {
+                        "10th Percentile": 33.4, 
+                        "Median": 38.0, 
+                        "Base": "90-94", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.15625322846342
+                    }, 
+                    {
+                        "10th Percentile": 32.8, 
+                        "Median": 38.0, 
+                        "Base": "95-99", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.10741707048898
+                    }, 
+                    {
+                        "10th Percentile": 32.4, 
+                        "Median": 38.0, 
+                        "Base": "100-104", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 36.02492664608909
+                    }, 
+                    {
+                        "10th Percentile": 31.4, 
+                        "Median": 38.0, 
+                        "Base": "105-109", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.8, 
+                        "Mean": 35.915264419264155
+                    }, 
+                    {
+                        "10th Percentile": 31.2, 
+                        "Median": 38.0, 
+                        "Base": "110-114", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.4, 
+                        "Mean": 35.793941843000574
+                    }, 
+                    {
+                        "10th Percentile": 30.8, 
+                        "Median": 38.0, 
+                        "Base": "115-119", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.2, 
+                        "Mean": 35.775259258635764
+                    }, 
+                    {
+                        "10th Percentile": 31.2, 
+                        "Median": 38.0, 
+                        "Base": "120-124", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.4, 
+                        "Mean": 35.819777562995334
+                    }, 
+                    {
+                        "10th Percentile": 31.0, 
+                        "Median": 38.0, 
+                        "Base": "125-129", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 37.0, 
+                        "Mean": 35.865338427166755
+                    }, 
+                    {
+                        "10th Percentile": 29.8, 
+                        "Median": 38.0, 
+                        "Base": "130-134", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.546723714157494
+                    }, 
+                    {
+                        "10th Percentile": 30.2, 
+                        "Median": 38.0, 
+                        "Base": "135-139", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.57947733616971
+                    }, 
+                    {
+                        "10th Percentile": 30.2, 
+                        "Median": 38.0, 
+                        "Base": "140-144", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.588190934622745
+                    }, 
+                    {
+                        "10th Percentile": 29.8, 
+                        "Median": 38.0, 
+                        "Base": "145-149", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.52297407500674
+                    }, 
+                    {
+                        "10th Percentile": 29.0, 
+                        "Median": 38.0, 
+                        "Base": "150-154", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 36.0, 
+                        "Mean": 35.42649339119906
+                    }, 
+                    {
+                        "10th Percentile": 28.2, 
+                        "Median": 38.0, 
+                        "Base": "155-159", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 35.6, 
+                        "Mean": 35.22648415970668
+                    }, 
+                    {
+                        "10th Percentile": 28.4, 
+                        "Median": 38.0, 
+                        "Base": "160-164", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 35.6, 
+                        "Mean": 35.25958272776508
+                    }, 
+                    {
+                        "10th Percentile": 28.2, 
+                        "Median": 38.0, 
+                        "Base": "165-169", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 35.0, 
+                        "Mean": 35.190307866582614
+                    }, 
+                    {
+                        "10th Percentile": 27.2, 
+                        "Median": 38.0, 
+                        "Base": "170-174", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 35.0, 
+                        "Mean": 35.069603546090484
+                    }, 
+                    {
+                        "10th Percentile": 27.0, 
+                        "Median": 38.0, 
+                        "Base": "175-179", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 35.0, 
+                        "Mean": 34.99553800071929
+                    }, 
+                    {
+                        "10th Percentile": 26.0, 
+                        "Median": 37.8, 
+                        "Base": "180-184", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.8, 
+                        "Mean": 34.842643009415355
+                    }, 
+                    {
+                        "10th Percentile": 25.6, 
+                        "Median": 37.4, 
+                        "Base": "185-189", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.2, 
+                        "Mean": 34.72532739327356
+                    }, 
+                    {
+                        "10th Percentile": 25.0, 
+                        "Median": 37.0, 
+                        "Base": "190-194", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 34.704311799146105
+                    }, 
+                    {
+                        "10th Percentile": 25.0, 
+                        "Median": 37.0, 
+                        "Base": "195-199", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 34.608074609697155
+                    }, 
+                    {
+                        "10th Percentile": 24.4, 
+                        "Median": 37.0, 
+                        "Base": "200-204", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 34.402847755870866
+                    }, 
+                    {
+                        "10th Percentile": 24.0, 
+                        "Median": 37.0, 
+                        "Base": "205-209", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 34.266240070111984
+                    }, 
+                    {
+                        "10th Percentile": 23.2, 
+                        "Median": 37.0, 
+                        "Base": "210-214", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 34.11043232919574
+                    }, 
+                    {
+                        "10th Percentile": 23.0, 
+                        "Median": 37.0, 
+                        "Base": "215-219", 
+                        "Upper Quartile": 38.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 34.0, 
+                        "Mean": 33.99403133960841
+                    }, 
+                    {
+                        "10th Percentile": 20.0, 
+                        "Median": 34.0, 
+                        "Base": "220", 
+                        "Upper Quartile": 37.0, 
+                        "90th Percentile": 38.0, 
+                        "Lower Quartile": 24.0, 
+                        "Mean": 30.65289842447171
+                    }
+                ]
+            }, 
+            "Sequence Duplication Levels": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Percentage of total": 46.11363209208737, 
+                        "Duplication Level": 1, 
+                        "Percentage of deduplicated": 74.21722410800082
+                    }, 
+                    {
+                        "Percentage of total": 17.755361016358762, 
+                        "Duplication Level": 2, 
+                        "Percentage of deduplicated": 14.288113383023592
+                    }, 
+                    {
+                        "Percentage of total": 9.56863918482905, 
+                        "Duplication Level": 3, 
+                        "Percentage of deduplicated": 5.133390471685933
+                    }, 
+                    {
+                        "Percentage of total": 5.797096708996453, 
+                        "Duplication Level": 4, 
+                        "Percentage of deduplicated": 2.332522976980864
+                    }, 
+                    {
+                        "Percentage of total": 4.365379483394334, 
+                        "Duplication Level": 5, 
+                        "Percentage of deduplicated": 1.405165165860526
+                    }, 
+                    {
+                        "Percentage of total": 2.4115077287955127, 
+                        "Duplication Level": 6, 
+                        "Percentage of deduplicated": 0.6468637053962147
+                    }, 
+                    {
+                        "Percentage of total": 1.9427519653055978, 
+                        "Duplication Level": 7, 
+                        "Percentage of deduplicated": 0.44667813415908497
+                    }, 
+                    {
+                        "Percentage of total": 1.686502266511262, 
+                        "Duplication Level": 8, 
+                        "Percentage of deduplicated": 0.3392909834730713
+                    }, 
+                    {
+                        "Percentage of total": 1.2819244576116415, 
+                        "Duplication Level": 9, 
+                        "Percentage of deduplicated": 0.22924258678141823
+                    }, 
+                    {
+                        "Percentage of total": 9.01591352653151, 
+                        "Duplication Level": ">10", 
+                        "Percentage of deduplicated": 0.9600274603470375
+                    }, 
+                    {
+                        "Percentage of total": 0.06129156957847912, 
+                        "Duplication Level": ">50", 
+                        "Percentage of deduplicated": 0.0014810242913854215
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">100", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">500", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">1k", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">5k", 
+                        "Percentage of deduplicated": 0.0
+                    }, 
+                    {
+                        "Percentage of total": 0.0, 
+                        "Duplication Level": ">10k+", 
+                        "Percentage of deduplicated": 0.0
+                    }
+                ], 
+                "Total Deduplicated Percentage": 62.133329084071995
+            }, 
+            "Per base sequence content": {
+                "status": "fail", 
+                "contents": [
+                    {
+                        "A": 14.20192873803257, 
+                        "C": 46.14857560173057, 
+                        "Base": "1", 
+                        "T": 4.356584726413372, 
+                        "G": 35.292910933823485
+                    }, 
+                    {
+                        "A": 13.386287128001987, 
+                        "C": 24.831117465931165, 
+                        "Base": "2", 
+                        "T": 40.5652462002712, 
+                        "G": 21.217349205795653
+                    }, 
+                    {
+                        "A": 22.314854893336808, 
+                        "C": 25.947496148473032, 
+                        "Base": "3", 
+                        "T": 19.587912256984545, 
+                        "G": 32.14973670120562
+                    }, 
+                    {
+                        "A": 20.72193308702707, 
+                        "C": 26.65851572099969, 
+                        "Base": "4", 
+                        "T": 22.01042527832539, 
+                        "G": 30.609125913647844
+                    }, 
+                    {
+                        "A": 21.288943502048337, 
+                        "C": 27.109826471016618, 
+                        "Base": "5", 
+                        "T": 23.099109892116214, 
+                        "G": 28.50212013481883
+                    }, 
+                    {
+                        "A": 27.152700992268226, 
+                        "C": 21.006874283287758, 
+                        "Base": "6", 
+                        "T": 21.089546207040858, 
+                        "G": 30.75087851740316
+                    }, 
+                    {
+                        "A": 21.972884429573984, 
+                        "C": 24.529149545919843, 
+                        "Base": "7", 
+                        "T": 20.709624612026612, 
+                        "G": 32.78834141247956
+                    }, 
+                    {
+                        "A": 19.336614225725125, 
+                        "C": 30.29013126988588, 
+                        "Base": "8", 
+                        "T": 24.82024497968076, 
+                        "G": 25.553009524708237
+                    }, 
+                    {
+                        "A": 18.961616020711062, 
+                        "C": 32.42195913996582, 
+                        "Base": "9", 
+                        "T": 25.37310064845149, 
+                        "G": 23.243324190871625
+                    }, 
+                    {
+                        "A": 21.797775858567416, 
+                        "C": 28.515454316069327, 
+                        "Base": "10-14", 
+                        "T": 22.032211279076208, 
+                        "G": 27.654558546287046
+                    }, 
+                    {
+                        "A": 21.906787918821504, 
+                        "C": 28.576094069571607, 
+                        "Base": "15-19", 
+                        "T": 21.70587257856397, 
+                        "G": 27.81124543304292
+                    }, 
+                    {
+                        "A": 21.94293380707286, 
+                        "C": 28.412473408565468, 
+                        "Base": "20-24", 
+                        "T": 21.812135746067955, 
+                        "G": 27.832457038293718
+                    }, 
+                    {
+                        "A": 21.851933148569447, 
+                        "C": 28.2853678900607, 
+                        "Base": "25-29", 
+                        "T": 21.754778252565803, 
+                        "G": 28.107920708804045
+                    }, 
+                    {
+                        "A": 21.546723996808, 
+                        "C": 28.37353759931401, 
+                        "Base": "30-34", 
+                        "T": 21.736438624815115, 
+                        "G": 28.343299779062875
+                    }, 
+                    {
+                        "A": 21.746978332003962, 
+                        "C": 28.31917549709789, 
+                        "Base": "35-39", 
+                        "T": 21.87538613680111, 
+                        "G": 28.05846003409703
+                    }, 
+                    {
+                        "A": 21.606606594249474, 
+                        "C": 28.314427996632347, 
+                        "Base": "40-44", 
+                        "T": 21.705735135450986, 
+                        "G": 28.373230273667193
+                    }, 
+                    {
+                        "A": 21.568887966459133, 
+                        "C": 28.443717503778547, 
+                        "Base": "45-49", 
+                        "T": 21.629130148282417, 
+                        "G": 28.358264381479902
+                    }, 
+                    {
+                        "A": 21.571498433193298, 
+                        "C": 28.237356941487402, 
+                        "Base": "50-54", 
+                        "T": 21.809643122227474, 
+                        "G": 28.381501503091826
+                    }, 
+                    {
+                        "A": 21.55253596583588, 
+                        "C": 28.479947164094156, 
+                        "Base": "55-59", 
+                        "T": 21.64994387014713, 
+                        "G": 28.317572999922834
+                    }, 
+                    {
+                        "A": 21.54643931870499, 
+                        "C": 28.41330854273113, 
+                        "Base": "60-64", 
+                        "T": 21.53994905140167, 
+                        "G": 28.50030308716221
+                    }, 
+                    {
+                        "A": 21.565326476930377, 
+                        "C": 28.374849710145593, 
+                        "Base": "65-69", 
+                        "T": 21.657013199632917, 
+                        "G": 28.402810613291113
+                    }, 
+                    {
+                        "A": 21.570149621204983, 
+                        "C": 28.443186609670505, 
+                        "Base": "70-74", 
+                        "T": 21.51801898560064, 
+                        "G": 28.46864478352387
+                    }, 
+                    {
+                        "A": 21.602248817462634, 
+                        "C": 28.68616672957281, 
+                        "Base": "75-79", 
+                        "T": 21.470902477549235, 
+                        "G": 28.240681975415328
+                    }, 
+                    {
+                        "A": 21.499081891244884, 
+                        "C": 28.43213389093054, 
+                        "Base": "80-84", 
+                        "T": 21.613370164718766, 
+                        "G": 28.45541405310581
+                    }, 
+                    {
+                        "A": 21.48342792242901, 
+                        "C": 28.509006083399356, 
+                        "Base": "85-89", 
+                        "T": 21.61383505792661, 
+                        "G": 28.39373093624502
+                    }, 
+                    {
+                        "A": 21.448163520424, 
+                        "C": 28.620398098340864, 
+                        "Base": "90-94", 
+                        "T": 21.58139096818938, 
+                        "G": 28.350047413045758
+                    }, 
+                    {
+                        "A": 21.488296624820173, 
+                        "C": 28.419910504109524, 
+                        "Base": "95-99", 
+                        "T": 21.675206944135013, 
+                        "G": 28.416585926935294
+                    }, 
+                    {
+                        "A": 21.587416688045487, 
+                        "C": 28.498447635851498, 
+                        "Base": "100-104", 
+                        "T": 21.519877067419202, 
+                        "G": 28.394258608683813
+                    }, 
+                    {
+                        "A": 21.518491534954784, 
+                        "C": 28.500429706703073, 
+                        "Base": "105-109", 
+                        "T": 21.571232285650627, 
+                        "G": 28.40984647269152
+                    }, 
+                    {
+                        "A": 21.5632253706352, 
+                        "C": 28.386649946461805, 
+                        "Base": "110-114", 
+                        "T": 21.662037469547908, 
+                        "G": 28.388087213355085
+                    }, 
+                    {
+                        "A": 21.612975796583758, 
+                        "C": 28.45268600671982, 
+                        "Base": "115-119", 
+                        "T": 21.625093051371675, 
+                        "G": 28.309245145324752
+                    }, 
+                    {
+                        "A": 21.6203771306848, 
+                        "C": 28.555899903942194, 
+                        "Base": "120-124", 
+                        "T": 21.54111427986271, 
+                        "G": 28.28260868551029
+                    }, 
+                    {
+                        "A": 21.724220831691632, 
+                        "C": 28.426847522564852, 
+                        "Base": "125-129", 
+                        "T": 21.605111996649498, 
+                        "G": 28.24381964909402
+                    }, 
+                    {
+                        "A": 21.723243545523516, 
+                        "C": 28.451854415479794, 
+                        "Base": "130-134", 
+                        "T": 21.603236428197125, 
+                        "G": 28.22166561079957
+                    }, 
+                    {
+                        "A": 21.74007846691583, 
+                        "C": 28.40107456165692, 
+                        "Base": "135-139", 
+                        "T": 21.63462190632704, 
+                        "G": 28.22422506510021
+                    }, 
+                    {
+                        "A": 21.77612854117024, 
+                        "C": 28.225784766348955, 
+                        "Base": "140-144", 
+                        "T": 21.772870747286206, 
+                        "G": 28.2252159451946
+                    }, 
+                    {
+                        "A": 21.881537301220703, 
+                        "C": 28.2592763670927, 
+                        "Base": "145-149", 
+                        "T": 21.6991729330527, 
+                        "G": 28.160013398633893
+                    }, 
+                    {
+                        "A": 21.81685767652332, 
+                        "C": 28.325214403694204, 
+                        "Base": "150-154", 
+                        "T": 21.70262665199452, 
+                        "G": 28.15530126778795
+                    }, 
+                    {
+                        "A": 21.881990540799652, 
+                        "C": 28.221583594313522, 
+                        "Base": "155-159", 
+                        "T": 21.756902659715312, 
+                        "G": 28.139523205171518
+                    }, 
+                    {
+                        "A": 21.87738127450104, 
+                        "C": 28.225788784689264, 
+                        "Base": "160-164", 
+                        "T": 21.802127819562227, 
+                        "G": 28.094702121247465
+                    }, 
+                    {
+                        "A": 21.92756373805181, 
+                        "C": 28.225981148749607, 
+                        "Base": "165-169", 
+                        "T": 21.864361093264208, 
+                        "G": 27.982094019934372
+                    }, 
+                    {
+                        "A": 22.064563992207063, 
+                        "C": 28.08134532555236, 
+                        "Base": "170-174", 
+                        "T": 21.90126087432835, 
+                        "G": 27.952829807912227
+                    }, 
+                    {
+                        "A": 22.12968292399551, 
+                        "C": 28.062889033414308, 
+                        "Base": "175-179", 
+                        "T": 21.863193783210985, 
+                        "G": 27.944234259379204
+                    }, 
+                    {
+                        "A": 22.09950221697873, 
+                        "C": 28.160127294114528, 
+                        "Base": "180-184", 
+                        "T": 21.949937210588228, 
+                        "G": 27.79043327831851
+                    }, 
+                    {
+                        "A": 22.184586613685063, 
+                        "C": 27.973833040855055, 
+                        "Base": "185-189", 
+                        "T": 22.030616129921622, 
+                        "G": 27.810964215538252
+                    }, 
+                    {
+                        "A": 22.259640635428365, 
+                        "C": 27.970667361859157, 
+                        "Base": "190-194", 
+                        "T": 22.022948997386145, 
+                        "G": 27.746743005326323
+                    }, 
+                    {
+                        "A": 22.332753983995843, 
+                        "C": 27.841652356711293, 
+                        "Base": "195-199", 
+                        "T": 22.07216709001677, 
+                        "G": 27.75342656927609
+                    }, 
+                    {
+                        "A": 22.46736954355747, 
+                        "C": 27.80087048296703, 
+                        "Base": "200-204", 
+                        "T": 22.164581855179915, 
+                        "G": 27.567178118295583
+                    }, 
+                    {
+                        "A": 22.43911550708911, 
+                        "C": 27.699286641879993, 
+                        "Base": "205-209", 
+                        "T": 22.16613594720083, 
+                        "G": 27.695461903830076
+                    }, 
+                    {
+                        "A": 22.561644376802487, 
+                        "C": 27.728634934729484, 
+                        "Base": "210-214", 
+                        "T": 22.26948379947964, 
+                        "G": 27.44023688898839
+                    }, 
+                    {
+                        "A": 22.56902916905433, 
+                        "C": 27.775392890729357, 
+                        "Base": "215-219", 
+                        "T": 22.40570322998009, 
+                        "G": 27.24987471023622
+                    }, 
+                    {
+                        "A": 19.732060631704705, 
+                        "C": 31.048858799810837, 
+                        "Base": "220", 
+                        "T": 21.753117455260472, 
+                        "G": 27.465963113223985
+                    }
+                ]
+            }, 
+            "Per sequence GC content": {
+                "status": "fail", 
+                "contents": [
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 0
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 1
+                    }, 
+                    {
+                        "Count": 0.5, 
+                        "GC Content": 2
+                    }, 
+                    {
+                        "Count": 0.5, 
+                        "GC Content": 3
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 4
+                    }, 
+                    {
+                        "Count": 0.0, 
+                        "GC Content": 5
+                    }, 
+                    {
+                        "Count": 0.5, 
+                        "GC Content": 6
+                    }, 
+                    {
+                        "Count": 1.0, 
+                        "GC Content": 7
+                    }, 
+                    {
+                        "Count": 2.0, 
+                        "GC Content": 8
+                    }, 
+                    {
+                        "Count": 4.333333333333333, 
+                        "GC Content": 9
+                    }, 
+                    {
+                        "Count": 5.333333333333333, 
+                        "GC Content": 10
+                    }, 
+                    {
+                        "Count": 7.5, 
+                        "GC Content": 11
+                    }, 
+                    {
+                        "Count": 10.0, 
+                        "GC Content": 12
+                    }, 
+                    {
+                        "Count": 9.5, 
+                        "GC Content": 13
+                    }, 
+                    {
+                        "Count": 12.0, 
+                        "GC Content": 14
+                    }, 
+                    {
+                        "Count": 17.5, 
+                        "GC Content": 15
+                    }, 
+                    {
+                        "Count": 18.5, 
+                        "GC Content": 16
+                    }, 
+                    {
+                        "Count": 22.5, 
+                        "GC Content": 17
+                    }, 
+                    {
+                        "Count": 35.833333333333336, 
+                        "GC Content": 18
+                    }, 
+                    {
+                        "Count": 49.66666666666667, 
+                        "GC Content": 19
+                    }, 
+                    {
+                        "Count": 77.0, 
+                        "GC Content": 20
+                    }, 
+                    {
+                        "Count": 123.16666666666661, 
+                        "GC Content": 21
+                    }, 
+                    {
+                        "Count": 165.3333333333334, 
+                        "GC Content": 22
+                    }, 
+                    {
+                        "Count": 216.83333333333357, 
+                        "GC Content": 23
+                    }, 
+                    {
+                        "Count": 297.00000000000034, 
+                        "GC Content": 24
+                    }, 
+                    {
+                        "Count": 431.1666666666647, 
+                        "GC Content": 25
+                    }, 
+                    {
+                        "Count": 612.6666666666663, 
+                        "GC Content": 26
+                    }, 
+                    {
+                        "Count": 836.8333333333435, 
+                        "GC Content": 27
+                    }, 
+                    {
+                        "Count": 1110.0000000000095, 
+                        "GC Content": 28
+                    }, 
+                    {
+                        "Count": 1470.833333333306, 
+                        "GC Content": 29
+                    }, 
+                    {
+                        "Count": 1901.9999999999247, 
+                        "GC Content": 30
+                    }, 
+                    {
+                        "Count": 2270.6666666666288, 
+                        "GC Content": 31
+                    }, 
+                    {
+                        "Count": 2656.666666666707, 
+                        "GC Content": 32
+                    }, 
+                    {
+                        "Count": 3092.666666666809, 
+                        "GC Content": 33
+                    }, 
+                    {
+                        "Count": 3492.6666666668925, 
+                        "GC Content": 34
+                    }, 
+                    {
+                        "Count": 3889.000000000289, 
+                        "GC Content": 35
+                    }, 
+                    {
+                        "Count": 4438.000000000197, 
+                        "GC Content": 36
+                    }, 
+                    {
+                        "Count": 4710.8333333334085, 
+                        "GC Content": 37
+                    }, 
+                    {
+                        "Count": 4923.99999999999, 
+                        "GC Content": 38
+                    }, 
+                    {
+                        "Count": 5092.333333333263, 
+                        "GC Content": 39
+                    }, 
+                    {
+                        "Count": 5102.9999999999245, 
+                        "GC Content": 40
+                    }, 
+                    {
+                        "Count": 5158.166666666557, 
+                        "GC Content": 41
+                    }, 
+                    {
+                        "Count": 5082.499999999925, 
+                        "GC Content": 42
+                    }, 
+                    {
+                        "Count": 5132.666666666584, 
+                        "GC Content": 43
+                    }, 
+                    {
+                        "Count": 5207.666666666558, 
+                        "GC Content": 44
+                    }, 
+                    {
+                        "Count": 5376.166666666495, 
+                        "GC Content": 45
+                    }, 
+                    {
+                        "Count": 5456.999999999818, 
+                        "GC Content": 46
+                    }, 
+                    {
+                        "Count": 5762.666666666394, 
+                        "GC Content": 47
+                    }, 
+                    {
+                        "Count": 6225.499999999562, 
+                        "GC Content": 48
+                    }, 
+                    {
+                        "Count": 6511.333333332817, 
+                        "GC Content": 49
+                    }, 
+                    {
+                        "Count": 6814.66666666605, 
+                        "GC Content": 50
+                    }, 
+                    {
+                        "Count": 7069.99999999929, 
+                        "GC Content": 51
+                    }, 
+                    {
+                        "Count": 7298.499999999219, 
+                        "GC Content": 52
+                    }, 
+                    {
+                        "Count": 7652.333333332443, 
+                        "GC Content": 53
+                    }, 
+                    {
+                        "Count": 7752.999999999156, 
+                        "GC Content": 54
+                    }, 
+                    {
+                        "Count": 8003.666666665796, 
+                        "GC Content": 55
+                    }, 
+                    {
+                        "Count": 8111.666666665809, 
+                        "GC Content": 56
+                    }, 
+                    {
+                        "Count": 8307.999999999147, 
+                        "GC Content": 57
+                    }, 
+                    {
+                        "Count": 8595.166666665971, 
+                        "GC Content": 58
+                    }, 
+                    {
+                        "Count": 8496.999999999278, 
+                        "GC Content": 59
+                    }, 
+                    {
+                        "Count": 8918.333333332885, 
+                        "GC Content": 60
+                    }, 
+                    {
+                        "Count": 10214.00000000022, 
+                        "GC Content": 61
+                    }, 
+                    {
+                        "Count": 11326.000000000837, 
+                        "GC Content": 62
+                    }, 
+                    {
+                        "Count": 12235.333333334669, 
+                        "GC Content": 63
+                    }, 
+                    {
+                        "Count": 13689.666666668816, 
+                        "GC Content": 64
+                    }, 
+                    {
+                        "Count": 15359.000000003261, 
+                        "GC Content": 65
+                    }, 
+                    {
+                        "Count": 16768.16666667033, 
+                        "GC Content": 66
+                    }, 
+                    {
+                        "Count": 17644.33333333573, 
+                        "GC Content": 67
+                    }, 
+                    {
+                        "Count": 17858.500000002023, 
+                        "GC Content": 68
+                    }, 
+                    {
+                        "Count": 16946.333333336344, 
+                        "GC Content": 69
+                    }, 
+                    {
+                        "Count": 15079.333333336062, 
+                        "GC Content": 70
+                    }, 
+                    {
+                        "Count": 12294.000000001055, 
+                        "GC Content": 71
+                    }, 
+                    {
+                        "Count": 9413.833333333203, 
+                        "GC Content": 72
+                    }, 
+                    {
+                        "Count": 7083.166666666389, 
+                        "GC Content": 73
+                    }, 
+                    {
+                        "Count": 5318.333333333285, 
+                        "GC Content": 74
+                    }, 
+                    {
+                        "Count": 3801.000000000056, 
+                        "GC Content": 75
+                    }, 
+                    {
+                        "Count": 2576.000000000007, 
+                        "GC Content": 76
+                    }, 
+                    {
+                        "Count": 1677.8333333333228, 
+                        "GC Content": 77
+                    }, 
+                    {
+                        "Count": 1175.6666666666677, 
+                        "GC Content": 78
+                    }, 
+                    {
+                        "Count": 898.000000000003, 
+                        "GC Content": 79
+                    }, 
+                    {
+                        "Count": 693.3333333333342, 
+                        "GC Content": 80
+                    }, 
+                    {
+                        "Count": 552.1666666666661, 
+                        "GC Content": 81
+                    }, 
+                    {
+                        "Count": 436.83333333333286, 
+                        "GC Content": 82
+                    }, 
+                    {
+                        "Count": 309.5000000000001, 
+                        "GC Content": 83
+                    }, 
+                    {
+                        "Count": 235.83333333333343, 
+                        "GC Content": 84
+                    }, 
+                    {
+                        "Count": 183.50000000000006, 
+                        "GC Content": 85
+                    }, 
+                    {
+                        "Count": 140.5, 
+                        "GC Content": 86
+                    }, 
+                    {
+                        "Count": 105.83333333333334, 
+                        "GC Content": 87
+                    }, 
+                    {
+                        "Count": 69.0, 
+                        "GC Content": 88
+                    }, 
+                    {
+                        "Count": 47.5, 
+                        "GC Content": 89
+                    }, 
+                    {
+                        "Count": 34.0, 
+                        "GC Content": 90
+                    }, 
+                    {
+                        "Count": 22.333333333333332, 
+                        "GC Content": 91
+                    }, 
+                    {
+                        "Count": 13.333333333333334, 
+                        "GC Content": 92
+                    }, 
+                    {
+                        "Count": 5.833333333333333, 
+                        "GC Content": 93
+                    }, 
+                    {
+                        "Count": 2.6666666666666665, 
+                        "GC Content": 94
+                    }, 
+                    {
+                        "Count": 0.8333333333333333, 
+                        "GC Content": 95
+                    }, 
+                    {
+                        "Count": 0.5, 
+                        "GC Content": 96
+                    }, 
+                    {
+                        "Count": 1.9999999999999998, 
+                        "GC Content": 97
+                    }, 
+                    {
+                        "Count": 1.9999999999999998, 
+                        "GC Content": 98
+                    }, 
+                    {
+                        "Count": 5.5, 
+                        "GC Content": 99
+                    }, 
+                    {
+                        "Count": 15.0, 
+                        "GC Content": 100
+                    }
+                ]
+            }, 
+            "version": "0.11.2", 
+            "Sequence Length Distribution": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Count": 899.0, 
+                        "Length": "35-39"
+                    }, 
+                    {
+                        "Count": 1324.0, 
+                        "Length": "40-44"
+                    }, 
+                    {
+                        "Count": 1337.0, 
+                        "Length": "45-49"
+                    }, 
+                    {
+                        "Count": 1303.0, 
+                        "Length": "50-54"
+                    }, 
+                    {
+                        "Count": 1303.0, 
+                        "Length": "55-59"
+                    }, 
+                    {
+                        "Count": 1457.0, 
+                        "Length": "60-64"
+                    }, 
+                    {
+                        "Count": 1553.0, 
+                        "Length": "65-69"
+                    }, 
+                    {
+                        "Count": 1637.0, 
+                        "Length": "70-74"
+                    }, 
+                    {
+                        "Count": 2179.0, 
+                        "Length": "75-79"
+                    }, 
+                    {
+                        "Count": 2758.0, 
+                        "Length": "80-84"
+                    }, 
+                    {
+                        "Count": 3124.0, 
+                        "Length": "85-89"
+                    }, 
+                    {
+                        "Count": 3721.0, 
+                        "Length": "90-94"
+                    }, 
+                    {
+                        "Count": 4329.0, 
+                        "Length": "95-99"
+                    }, 
+                    {
+                        "Count": 5546.0, 
+                        "Length": "100-104"
+                    }, 
+                    {
+                        "Count": 6715.0, 
+                        "Length": "105-109"
+                    }, 
+                    {
+                        "Count": 7630.0, 
+                        "Length": "110-114"
+                    }, 
+                    {
+                        "Count": 8309.0, 
+                        "Length": "115-119"
+                    }, 
+                    {
+                        "Count": 9228.0, 
+                        "Length": "120-124"
+                    }, 
+                    {
+                        "Count": 9717.0, 
+                        "Length": "125-129"
+                    }, 
+                    {
+                        "Count": 10839.0, 
+                        "Length": "130-134"
+                    }, 
+                    {
+                        "Count": 11228.0, 
+                        "Length": "135-139"
+                    }, 
+                    {
+                        "Count": 11518.0, 
+                        "Length": "140-144"
+                    }, 
+                    {
+                        "Count": 12123.0, 
+                        "Length": "145-149"
+                    }, 
+                    {
+                        "Count": 12201.0, 
+                        "Length": "150-154"
+                    }, 
+                    {
+                        "Count": 12688.0, 
+                        "Length": "155-159"
+                    }, 
+                    {
+                        "Count": 12684.0, 
+                        "Length": "160-164"
+                    }, 
+                    {
+                        "Count": 12854.0, 
+                        "Length": "165-169"
+                    }, 
+                    {
+                        "Count": 12643.0, 
+                        "Length": "170-174"
+                    }, 
+                    {
+                        "Count": 12713.0, 
+                        "Length": "175-179"
+                    }, 
+                    {
+                        "Count": 12658.0, 
+                        "Length": "180-184"
+                    }, 
+                    {
+                        "Count": 12700.0, 
+                        "Length": "185-189"
+                    }, 
+                    {
+                        "Count": 12322.0, 
+                        "Length": "190-194"
+                    }, 
+                    {
+                        "Count": 12230.0, 
+                        "Length": "195-199"
+                    }, 
+                    {
+                        "Count": 12231.0, 
+                        "Length": "200-204"
+                    }, 
+                    {
+                        "Count": 12232.0, 
+                        "Length": "205-209"
+                    }, 
+                    {
+                        "Count": 12114.0, 
+                        "Length": "210-214"
+                    }, 
+                    {
+                        "Count": 44714.0, 
+                        "Length": "215-219"
+                    }, 
+                    {
+                        "Count": 160708.0, 
+                        "Length": "220-221"
+                    }
+                ]
+            }, 
+            "Kmer Content": {
+                "status": "warn", 
+                "contents": [
+                    {
+                        "Count": 200, 
+                        "Max Obs/Exp Position": "210-214", 
+                        "Obs/Exp Max": 42.678963, 
+                        "PValue": 0.00091105455, 
+                        "Sequence": "CTATTAG"
+                    }, 
+                    {
+                        "Count": 240, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 21.899836, 
+                        "PValue": 0.00029592935, 
+                        "Sequence": "GTACTGA"
+                    }, 
+                    {
+                        "Count": 210, 
+                        "Max Obs/Exp Position": 9, 
+                        "Obs/Exp Max": 20.856987, 
+                        "PValue": 0.0035134822, 
+                        "Sequence": "CCATAGA"
+                    }, 
+                    {
+                        "Count": 300, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 20.439846, 
+                        "PValue": 5.6594003e-05, 
+                        "Sequence": "CTATAAT"
+                    }, 
+                    {
+                        "Count": 215, 
+                        "Max Obs/Exp Position": 7, 
+                        "Obs/Exp Max": 20.37194, 
+                        "PValue": 0.0040266, 
+                        "Sequence": "GTCGGCG"
+                    }, 
+                    {
+                        "Count": 225, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 19.466522, 
+                        "PValue": 0.005238119, 
+                        "Sequence": "CTGCTAA"
+                    }, 
+                    {
+                        "Count": 225, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 19.466522, 
+                        "PValue": 0.005238119, 
+                        "Sequence": "CTACTGT"
+                    }, 
+                    {
+                        "Count": 250, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 17.519869, 
+                        "PValue": 0.009619563, 
+                        "Sequence": "TAGGAAT"
+                    }, 
+                    {
+                        "Count": 345, 
+                        "Max Obs/Exp Position": 5, 
+                        "Obs/Exp Max": 15.234669, 
+                        "PValue": 0.0033817487, 
+                        "Sequence": "GGATTTT"
+                    }, 
+                    {
+                        "Count": 440, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 13.936259, 
+                        "PValue": 0.0010521354, 
+                        "Sequence": "CTAGCTG"
+                    }, 
+                    {
+                        "Count": 385, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 13.651846, 
+                        "PValue": 0.007004807, 
+                        "Sequence": "TATAATT"
+                    }, 
+                    {
+                        "Count": 550, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 12.741722, 
+                        "PValue": 0.00038845433, 
+                        "Sequence": "GTGACGT"
+                    }, 
+                    {
+                        "Count": 560, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 10.949918, 
+                        "PValue": 0.0064189117, 
+                        "Sequence": "TGCATTT"
+                    }, 
+                    {
+                        "Count": 725, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 10.874401, 
+                        "PValue": 0.0003203648, 
+                        "Sequence": "CTGAGTG"
+                    }, 
+                    {
+                        "Count": 580, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 10.572334, 
+                        "PValue": 0.00832992, 
+                        "Sequence": "GTGACAT"
+                    }, 
+                    {
+                        "Count": 585, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 10.481973, 
+                        "PValue": 0.008877262, 
+                        "Sequence": "TGACATG"
+                    }, 
+                    {
+                        "Count": 1030, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 10.2057495, 
+                        "PValue": 7.2252315e-06, 
+                        "Sequence": "CTCCTGA"
+                    }, 
+                    {
+                        "Count": 810, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 8.651787, 
+                        "PValue": 0.009713825, 
+                        "Sequence": "GTTGAGG"
+                    }, 
+                    {
+                        "Count": 925, 
+                        "Max Obs/Exp Position": 1, 
+                        "Obs/Exp Max": 8.52318, 
+                        "PValue": 0.0029806287, 
+                        "Sequence": "CTGCAAA"
+                    }, 
+                    {
+                        "Count": 1225, 
+                        "Max Obs/Exp Position": 2, 
+                        "Obs/Exp Max": 7.1509666, 
+                        "PValue": 0.0045636822, 
+                        "Sequence": "CGCCAGC"
+                    }
+                ]
+            }, 
+            "Basic Statistics": {
+                "status": "pass", 
+                "contents": {
+                    "Sequences flagged as poor quality": 0, 
+                    "Encoding": "Sanger / Illumina 1.9", 
+                    "Sequence length": "36-220", 
+                    "File type": "Conventional base calls", 
+                    "Total Sequences": 487469, 
+                    "%GC": 56, 
+                    "Filename": "328b465e_2.filtered.fastq.gz"
+                }
+            }, 
+            "Overrepresented sequences": {
+                "status": "pass", 
+                "contents": []
+            }, 
+            "Per sequence quality scores": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "Count": 2.0, 
+                        "Quality": 20
+                    }, 
+                    {
+                        "Count": 7.0, 
+                        "Quality": 21
+                    }, 
+                    {
+                        "Count": 47.0, 
+                        "Quality": 22
+                    }, 
+                    {
+                        "Count": 117.0, 
+                        "Quality": 23
+                    }, 
+                    {
+                        "Count": 327.0, 
+                        "Quality": 24
+                    }, 
+                    {
+                        "Count": 666.0, 
+                        "Quality": 25
+                    }, 
+                    {
+                        "Count": 1349.0, 
+                        "Quality": 26
+                    }, 
+                    {
+                        "Count": 2667.0, 
+                        "Quality": 27
+                    }, 
+                    {
+                        "Count": 4692.0, 
+                        "Quality": 28
+                    }, 
+                    {
+                        "Count": 7846.0, 
+                        "Quality": 29
+                    }, 
+                    {
+                        "Count": 11916.0, 
+                        "Quality": 30
+                    }, 
+                    {
+                        "Count": 17027.0, 
+                        "Quality": 31
+                    }, 
+                    {
+                        "Count": 22582.0, 
+                        "Quality": 32
+                    }, 
+                    {
+                        "Count": 30659.0, 
+                        "Quality": 33
+                    }, 
+                    {
+                        "Count": 39902.0, 
+                        "Quality": 34
+                    }, 
+                    {
+                        "Count": 56333.0, 
+                        "Quality": 35
+                    }, 
+                    {
+                        "Count": 91559.0, 
+                        "Quality": 36
+                    }, 
+                    {
+                        "Count": 199771.0, 
+                        "Quality": 37
+                    }
+                ]
+            }, 
+            "Per base N content": {
+                "status": "pass", 
+                "contents": [
+                    {
+                        "Base": "1", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "2", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "3", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "4", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "5", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "6", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "7", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "8", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "9", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "10-14", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "15-19", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "20-24", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "25-29", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "30-34", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "35-39", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "40-44", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "45-49", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "50-54", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "55-59", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "60-64", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "65-69", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "70-74", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "75-79", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "80-84", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "85-89", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "90-94", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "95-99", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "100-104", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "105-109", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "110-114", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "115-119", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "120-124", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "125-129", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "130-134", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "135-139", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "140-144", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "145-149", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "150-154", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "155-159", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "160-164", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "165-169", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "170-174", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "175-179", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "180-184", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "185-189", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "190-194", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "195-199", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "200-204", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "205-209", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "210-214", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "215-219", 
+                        "N-Count": 0.0
+                    }, 
+                    {
+                        "Base": "220", 
+                        "N-Count": 0.0
+                    }
+                ]
+            }
+        }
+    }, 
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics.DUPLICATION", 
+        "type": "DUPLICATION", 
+        "data": {
+            "metrics": {
+                "class": "picard.sam.DuplicationMetrics", 
+                "contents": {
+                    "UNMAPPED_READS": 150, 
+                    "ESTIMATED_LIBRARY_SIZE": 5164857, 
+                    "READ_PAIR_OPTICAL_DUPLICATES": 10, 
+                    "READ_PAIRS_EXAMINED": 487344, 
+                    "UNPAIRED_READS_EXAMINED": 100, 
+                    "PERCENT_DUPLICATION": 0.045789, 
+                    "LIBRARY": "TAS", 
+                    "READ_PAIR_DUPLICATES": 22295, 
+                    "UNPAIRED_READ_DUPLICATES": 45, 
+                    "SECONDARY_OR_SUPPLEMENTARY_RDS": 1691
+                }
+            }, 
+            "header": {
+                "flags": "MarkDuplicates INPUT=[/home/vagrant/work/analysis/subL19741/L19741-500000/default/align/328b465e.sorted.bam] OUTPUT=/home/vagrant/work/analysis/subL19741/L19741-500000/default/align/328b465e.dupemk.bam METRICS_FILE=/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics.DUPLICATION TMP_DIR=[/home/vagrant/work/analysis/subL19741/L19741-500000/default/tmp] VALIDATION_STRINGENCY=SILENT MAX_RECORDS_IN_RAM=100000    MAX_SEQUENCES_FOR_DISK_READ_ENDS_MAP=50000 MAX_FILE_HANDLES_FOR_READ_ENDS_MAP=8000 SORTING_COLLECTION_SIZE_RATIO=0.25 TAG_DUPLICATE_SET_MEMBERS=false REMOVE_SEQUENCING_DUPLICATES=false TAGGING_POLICY=DontTag CLEAR_DT=true REMOVE_DUPLICATES=false ASSUME_SORTED=false DUPLICATE_SCORING_STRATEGY=SUM_OF_BASE_QUALITIES PROGRAM_RECORD_ID=MarkDuplicates PROGRAM_GROUP_NAME=MarkDuplicates READ_NAME_REGEX=<optimized capture of last three ':' separated fields as numeric values> OPTICAL_DUPLICATE_PIXEL_DISTANCE=100 MAX_OPTICAL_DUPLICATE_SET_SIZE=300000 ADD_PG_TAG_TO_READS=true VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false", 
+                "time": "Started on: Fri Oct 09 13:54:42 UTC 2020"
+            }, 
+            "histogram": null
+        }
+    }, 
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics.variation.selfSM", 
+        "type": "verifyBamID", 
+        "data": {
+            "selfSM": {
+                "contents": {
+                    "FREELK0": 9726.53, 
+                    "CHIP_ID": "NA", 
+                    "FREE_RA": "NA", 
+                    "DPREF": "NA", 
+                    "FREELK1": 9686.45, 
+                    "SNPS": 662.0, 
+                    "SEQ_ID": "L19741-500000", 
+                    "CHIPMIX": "NA", 
+                    "RDPALT": "NA", 
+                    "FREEMIX": 0.00476, 
+                    "CHIP_RH": "NA", 
+                    "READS": 63789.0, 
+                    "RG": "ALL", 
+                    "AVG_DP": 96.36, 
+                    "CHIP_RA": "NA", 
+                    "RDPHET": "NA", 
+                    "CHIPLK0": "NA", 
+                    "CHIPLK1": "NA", 
+                    "FREE_RH": "NA"
+                }
+            }, 
+            "header": []
+        }, 
+        "timestamp": "2020-10-09T15:03:38.892320"
+    }, 
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics.alignment_summary_metrics", 
+        "type": "alignment_summary_metrics", 
+        "data": {
+            "metrics": {
+                "class": "picard.analysis.AlignmentSummaryMetrics", 
+                "contents": [
+                    {
+                        "PF_HQ_ALIGNED_READS": 401438, 
+                        "READS_ALIGNED_IN_PAIRS": 487344, 
+                        "MEAN_READ_LENGTH": 187.664647, 
+                        "BAD_CYCLES": 0, 
+                        "PF_INDEL_RATE": 8.1e-05, 
+                        "PCT_READS_ALIGNED_IN_PAIRS": 0.999822, 
+                        "TOTAL_READS": 487469, 
+                        "PCT_CHIMERAS": 0.003098, 
+                        "PF_HQ_ERROR_RATE": 0.002036, 
+                        "PF_ALIGNED_BASES": 91323608, 
+                        "PCT_PF_READS": 1, 
+                        "PF_READS_IMPROPER_PAIRS": 1961, 
+                        "PF_READS": 487469, 
+                        "PCT_ADAPTER": 4e-06, 
+                        "PCT_PF_READS_ALIGNED": 0.999922, 
+                        "READ_GROUP": "", 
+                        "LIBRARY": "", 
+                        "SAMPLE": "", 
+                        "PF_NOISE_READS": 0, 
+                        "STRAND_BALANCE": 0.49974, 
+                        "PF_HQ_ALIGNED_Q20_BASES": 75000167, 
+                        "CATEGORY": "FIRST_OF_PAIR", 
+                        "PF_HQ_MEDIAN_MISMATCHES": 0, 
+                        "PF_HQ_ALIGNED_BASES": 75819135, 
+                        "PCT_PF_READS_IMPROPER_PAIRS": 0.004023, 
+                        "PF_MISMATCH_RATE": 0.002068, 
+                        "PF_READS_ALIGNED": 487431
+                    }, 
+                    {
+                        "PF_HQ_ALIGNED_READS": 401246, 
+                        "READS_ALIGNED_IN_PAIRS": 487344, 
+                        "MEAN_READ_LENGTH": 181.582041, 
+                        "BAD_CYCLES": 0, 
+                        "PF_INDEL_RATE": 8.3e-05, 
+                        "PCT_READS_ALIGNED_IN_PAIRS": 0.999973, 
+                        "TOTAL_READS": 487469, 
+                        "PCT_CHIMERAS": 0.003051, 
+                        "PF_HQ_ERROR_RATE": 0.00301, 
+                        "PF_ALIGNED_BASES": 88354501, 
+                        "PCT_PF_READS": 1, 
+                        "PF_READS_IMPROPER_PAIRS": 1887, 
+                        "PF_READS": 487469, 
+                        "PCT_ADAPTER": 2e-06, 
+                        "PCT_PF_READS_ALIGNED": 0.99977, 
+                        "READ_GROUP": "", 
+                        "LIBRARY": "", 
+                        "SAMPLE": "", 
+                        "PF_NOISE_READS": 0, 
+                        "STRAND_BALANCE": 0.50027, 
+                        "PF_HQ_ALIGNED_Q20_BASES": 72111238, 
+                        "CATEGORY": "SECOND_OF_PAIR", 
+                        "PF_HQ_MEDIAN_MISMATCHES": 0, 
+                        "PF_HQ_ALIGNED_BASES": 73572019, 
+                        "PCT_PF_READS_IMPROPER_PAIRS": 0.003872, 
+                        "PF_MISMATCH_RATE": 0.003115, 
+                        "PF_READS_ALIGNED": 487357
+                    }, 
+                    {
+                        "PF_HQ_ALIGNED_READS": 802684, 
+                        "READS_ALIGNED_IN_PAIRS": 974688, 
+                        "MEAN_READ_LENGTH": 184.623344, 
+                        "BAD_CYCLES": 0, 
+                        "PF_INDEL_RATE": 8.2e-05, 
+                        "PCT_READS_ALIGNED_IN_PAIRS": 0.999897, 
+                        "TOTAL_READS": 974938, 
+                        "PCT_CHIMERAS": 0.003075, 
+                        "PF_HQ_ERROR_RATE": 0.002515, 
+                        "PF_ALIGNED_BASES": 179678109, 
+                        "PCT_PF_READS": 1, 
+                        "PF_READS_IMPROPER_PAIRS": 3848, 
+                        "PF_READS": 974938, 
+                        "PCT_ADAPTER": 3e-06, 
+                        "PCT_PF_READS_ALIGNED": 0.999846, 
+                        "READ_GROUP": "", 
+                        "LIBRARY": "", 
+                        "SAMPLE": "", 
+                        "PF_NOISE_READS": 0, 
+                        "STRAND_BALANCE": 0.500005, 
+                        "PF_HQ_ALIGNED_Q20_BASES": 147111405, 
+                        "CATEGORY": "PAIR", 
+                        "PF_HQ_MEDIAN_MISMATCHES": 0, 
+                        "PF_HQ_ALIGNED_BASES": 149391154, 
+                        "PCT_PF_READS_IMPROPER_PAIRS": 0.003948, 
+                        "PF_MISMATCH_RATE": 0.002583, 
+                        "PF_READS_ALIGNED": 974788
+                    }
+                ]
+            }, 
+            "header": {
+                "flags": "CollectMultipleMetrics INPUT=/home/vagrant/work/analysis/subL19741/L19741-500000/default/align/328b465e.dupemk.bam OUTPUT=/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics PROGRAM=[CollectAlignmentSummaryMetrics, CollectBaseDistributionByCycle, CollectInsertSizeMetrics, MeanQualityByCycle, QualityScoreDistribution] TMP_DIR=[/home/vagrant/work/analysis/subL19741/L19741-500000/default/tmp] VALIDATION_STRINGENCY=SILENT MAX_RECORDS_IN_RAM=100000 REFERENCE_SEQUENCE=/home/vagrant/work/genome/human_g1k_v37_decoy.fasta    ASSUME_SORTED=true STOP_AFTER=0 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INCLUDE_UNPAIRED=false VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false", 
+                "time": "Started on: Fri Oct 09 14:20:38 UTC 2020"
+            }, 
+            "histogram": null
+        }
+    }, 
+    {
+        "source": "/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics.insert_size_metrics", 
+        "type": "insert_size_metrics", 
+        "data": {
+            "metrics": {
+                "class": "picard.analysis.InsertSizeMetrics", 
+                "contents": {
+                    "SAMPLE": "", 
+                    "READ_GROUP": "", 
+                    "WIDTH_OF_70_PERCENT": 195, 
+                    "READ_PAIRS": 464212, 
+                    "MEDIAN_INSERT_SIZE": 222, 
+                    "STANDARD_DEVIATION": 109.641777, 
+                    "WIDTH_OF_30_PERCENT": 79, 
+                    "WIDTH_OF_10_PERCENT": 27, 
+                    "LIBRARY": "", 
+                    "MIN_INSERT_SIZE": 2, 
+                    "WIDTH_OF_60_PERCENT": 163, 
+                    "WIDTH_OF_50_PERCENT": 133, 
+                    "WIDTH_OF_80_PERCENT": 239, 
+                    "MAX_INSERT_SIZE": 39259256, 
+                    "MEDIAN_ABSOLUTE_DEVIATION": 66, 
+                    "WIDTH_OF_90_PERCENT": 349, 
+                    "WIDTH_OF_99_PERCENT": 745, 
+                    "MEAN_INSERT_SIZE": 245.587819, 
+                    "WIDTH_OF_20_PERCENT": 53, 
+                    "WIDTH_OF_40_PERCENT": 105, 
+                    "PAIR_ORIENTATION": "FR"
+                }
+            }, 
+            "header": {
+                "flags": "CollectMultipleMetrics INPUT=/home/vagrant/work/analysis/subL19741/L19741-500000/default/align/328b465e.dupemk.bam OUTPUT=/home/vagrant/work/analysis/subL19741/L19741-500000/default/metrics/328b465e.metrics PROGRAM=[CollectAlignmentSummaryMetrics, CollectBaseDistributionByCycle, CollectInsertSizeMetrics, MeanQualityByCycle, QualityScoreDistribution] TMP_DIR=[/home/vagrant/work/analysis/subL19741/L19741-500000/default/tmp] VALIDATION_STRINGENCY=SILENT MAX_RECORDS_IN_RAM=100000 REFERENCE_SEQUENCE=/home/vagrant/work/genome/human_g1k_v37_decoy.fasta    ASSUME_SORTED=true STOP_AFTER=0 METRIC_ACCUMULATION_LEVEL=[ALL_READS] INCLUDE_UNPAIRED=false VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 CREATE_INDEX=false CREATE_MD5_FILE=false GA4GH_CLIENT_SECRETS=client_secrets.json USE_JDK_DEFLATER=false USE_JDK_INFLATER=false", 
+                "time": "Started on: Fri Oct 09 14:20:38 UTC 2020"
+            }, 
+            "histogram": null
+        }
+    }
+]
