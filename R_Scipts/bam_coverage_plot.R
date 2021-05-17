@@ -95,32 +95,6 @@ chr11_pos_density <- density(chr11_pos)
 # Display the negative strand with negative values
 chr11_neg_density$y <- (chr11_neg_density$y * -1)
 
-##### Plot PKLR (Chr1) #####
-
-# Pick Regions
-lower <- 155259007
-upper <- 155272004
-
-chr11_pos_interest <- chr11_pos[chr11_pos > lower & chr11_pos < upper]
-chr11_neg_interest <- chr11_neg[chr11_neg > lower & chr11_neg < upper]
-
-# Now continue with the code above but with the two vectors of interest
-chr11_neg_density <- density(chr11_neg_interest) # Changed for the example
-chr11_pos_density <- density(chr11_pos_interest)
-
-#display the negative strand with negative values
-chr11_neg_density$y <- chr11_neg_density$y * -1
-
-pdf("~/PKP_validation/PDF_Plots/PKLR_Cov.pdf", width = 13.33, height = 7.5)
-plot(chr11_pos_density,
-     ylim = range(c(chr11_neg_density$y, chr11_pos_density$y)),
-     main = "Coverage plot of mapped PKLR reads, blue for DBS, red for WB",
-     xlab = "Chromosome 1",
-     col = 'blue',
-     lwd=2.5,
-     type='h'
-)
-lines(chr11_neg_density, lwd=2.5, col = 'red', type='h')
 BiocManager::install("Gviz")
 library(Gviz) #load library
 
@@ -173,18 +147,21 @@ plotTracks(c(alTrack, bmt), from = afrom, to = ato,
            chromosome = "chr1", type = "coverage")
 graphics.off()
 
-##### Plot PKLR #####
-lower <- 155259084
-upper <- 155272002
+##### Plot PKLR (Chr1) #####
+
+# Pick Regions
+lower <- 155259007
+upper <- 155272004
 
 chr1_pos_interest <- chr11_pos[chr11_pos > lower & chr11_pos < upper]
 chr1_neg_interest <- chr11_neg[chr11_neg > lower & chr11_neg < upper]
 
-chr1_neg_density <- density(chr1_neg_interest)
+# Now continue with the code above but with the two vectors of interest
+chr1_neg_density <- density(chr1_neg_interest) # Changed for the example
 chr1_pos_density <- density(chr1_pos_interest)
 
 # Display the negative strand with negative values
-chr1_neg_density$y <- chr1_pos_density$y * -1
+chr1_neg_density$y <- chr1_neg_density$y * -1
 
 pdf("~/PKP_validation/PDF_Plots/PKLR_CovDen.pdf", width = 13.33, height = 7.5)
 plot(chr1_pos_density,
@@ -193,9 +170,10 @@ plot(chr1_pos_density,
      xlab = "Chromosome 1",
      col = 'blue',
      lwd = 2.5,
-     type = 'h'
+     type = 'h',
+     cex.main = 2
 )
-lines(chr1_neg_density, lwd = 2.5, col = 'red', type='h')
+lines(chr1_neg_density, lwd=2.5, col = 'red', type='h')
 graphics.off()
 
 ##### Plot HBB1 #####
@@ -209,7 +187,7 @@ chr11_neg_density <- density(chr11_neg_interest)
 chr11_pos_density <- density(chr11_pos_interest)
 
 # Display the negative strand with negative values
-chr11_neg_density$y <- chr11_pos_density$y * -1
+chr11_neg_density$y <- chr11_neg_density$y * -1
 
 pdf("~/PKP_validation/PDF_Plots/HBB1_CovDen.pdf", width = 13.33, height = 7.5)
 plot(chr11_pos_density,
@@ -217,8 +195,9 @@ plot(chr11_pos_density,
      main = "Coverage plot of mapped HBB reads, blue for DBS, red for WB",
      xlab = "Chromosome 11",
      col = 'blue',
-     lwd=2.5,
-     type='h'
+     lwd = 2.5,
+     type = 'h',
+     cex.main = 2
 )
 lines(chr11_neg_density, lwd = 2.5, col = 'red', type='h')
 graphics.off()
@@ -234,7 +213,7 @@ chr19_neg_density <- density(chr19_neg_interest)
 chr19_pos_density <- density(chr19_pos_interest)
 
 # Display the negative strand with negative values
-chr19_neg_density$y <- chr19_pos_density$y * -1
+chr19_neg_density$y <- chr19_neg_density$y * -1
 
 pdf("~/PKP_validation/PDF_Plots/KLF1_CovDen.pdf", width = 13.33, height = 7.5)
 plot(chr19_pos_density,
@@ -243,7 +222,8 @@ plot(chr19_pos_density,
      xlab = "Chromosome 19",
      col = 'blue',
      lwd = 2.5,
-     type = 'h'
+     type = 'h',
+     cex.main = 2
 )
 lines(chr19_neg_density, lwd = 2.5, col = 'red', type='h')
 graphics.off()
@@ -251,31 +231,26 @@ graphics.off()
 pdf("~/PKP_validation/PDF_Plots/PKLR_Tracks.pdf", width = 13.33, height = 7.5)
 plotTracks(customFromTxDb_ch1, 
            from = 155259007, to = 155272004, 
-           transcriptAnnotation = "gene", main = "PKLR") 
+           transcriptAnnotation = "gene", main = "PKLR",
+           cex.main = 4) 
 graphics.off()
 
 pdf("~/PKP_validation/PDF_Plots/HBB1_Tracks.pdf", width = 13.33, height = 7.5)
 plotTracks(customFromTxDb_ch11, 
            from = 5246696, to = 5248801, 
-           transcriptAnnotation = "gene", main = "HBB1")
+           transcriptAnnotation = "gene", main = "HBB1",
+           cex.main = 4)
 graphics.off()
 
 pdf("~/PKP_validation/PDF_Plots/KLF1_Tracks.pdf", width = 13.33, height = 7.5)
 plotTracks(customFromTxDb_ch19, 
            from = 12995187, to = 12998566, 
-           transcriptAnnotation = "gene", main = "KLF1")
+           transcriptAnnotation = "gene", main = "KLF1",
+           cex.main = 4)
 graphics.off()
-
-grtrack_ch1 <- GeneRegionTrack(geneModels, genome = "hg19", 
-                           chromosome = "chr1", 
-                           name = "Gene Regions")
-
-plotTracks(grtrack, transcriptAnnotation = "symbol")
-
-plotTracks(customFromTxDb_ch1, from = 155259007, to = 155272004, transcriptAnnotation = "gene")
-
 
 # 1:155259007	155272004
 # 11:5246696	5248801
 # 19:12995187	12997006
 # 19:12997817	12998566
+
